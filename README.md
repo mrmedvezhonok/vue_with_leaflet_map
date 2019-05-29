@@ -1,4 +1,4 @@
-# test_one
+# Vue with leaflet
 
 ## Project setup
 ```
